@@ -1,4 +1,6 @@
 # Roadmap
+This roadmap defines the initial implementation of reusable open-source commons components. 
+Each work package delivers independently reusable building blocks.
 
 ## WP1 – Ingestion & Canonicalization
 - Automated ingestion of public administrative court decisions
