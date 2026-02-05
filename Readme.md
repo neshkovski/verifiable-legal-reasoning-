@@ -17,6 +17,7 @@ This is not a commercial product. It is a public-interest infrastructure designe
 - legal researchers
 - policy analysts
 - future open-source legal tools
+- The resulting components are intended to become part of the European open digital commons and to be reused beyond the legal domain wherever verifiable reasoning over public documents is required.
 
 ## Status
 Early-stage infrastructure project. Initial focus: architecture, ingestion pipeline and trustworthiness guarantees.
